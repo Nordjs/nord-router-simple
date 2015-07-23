@@ -1,4 +1,4 @@
-export default class Great{
+export default class Great {
   get() {
     return 'working!';
   }
